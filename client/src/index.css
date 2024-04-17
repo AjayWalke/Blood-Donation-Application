@@ -1,0 +1,53 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*
+Form
+
+*/
+
+.form-banner img{
+  height: 100%;
+  width: 100%;
+}
+
+.form-container {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  min-height: 100vh;
+  background-color: aqua;
+}
+
+
+/* 
+  for spinner
+*/
+
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #d8c5c5;
+  height: 100vh;
+}
+
+/* 
+header user name logout */
+.navbar {
+  background-color: rgb(121, 117, 117);
+  color: white;
+}
+
+.navbar-brand, .nav-link {
+  color:  white;
+  background-color: rgb(121, 117, 117);
+}
+/* 
+.fa-regular.fa-square-plus {
+  padding: 10;
+  padding-left: 4;
+} */

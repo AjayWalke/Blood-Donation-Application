@@ -1,0 +1,26 @@
+.sidebar {
+    height: 100vh;
+    background-color: rgb(143, 238, 206);
+    box-shadow: 0 0 2px grey;
+    color: rgb(108, 107, 107);
+}
+
+.menu {
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.menu-item {
+    padding-top: 30px;
+}
+
+.menu-item a{
+    color: black;
+    font-size: 1.2rem;
+    text-decoration: none;
+}
+
+.menu-item i{
+    color: black;
+    margin: 0 15px;
+}
